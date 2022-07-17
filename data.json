@@ -1,0 +1,122 @@
+[
+  {
+    "maSV": "20215083",
+    "tenSV": "Đinh Văn Luận",
+    "tuoi": 18,
+    "gioiTinh": "Nam",
+    "ngaySinh": "28/8/2003",
+    "diemToan": 9,
+    "diemLy": 9,
+    "diemHoa": 10,
+    "diemAnh": 10,
+    "lop": "VN-01"
+  },
+  {
+    "maSV": "2016366",
+    "tenSV": "Nguyễn Văn Tâm",
+    "tuoi": 23,
+    "gioiTinh": "Nam",
+    "ngaySinh": "8/8/1998",
+    "diemToan": 3,
+    "diemLy": 6,
+    "diemHoa": 8,
+    "diemAnh": 7,
+    "lop": "Information Technology"
+  },
+  {
+    "maSV": "20176771",
+    "tenSV": "Phạm Trọng Huấn",
+    "tuoi": 22,
+    "gioiTinh": "Nam",
+    "ngaySinh": "18/8/1999",
+    "diemToan": 2.5,
+    "diemLy": 7,
+    "diemHoa": 5,
+    "diemAnh": 8,
+    "lop": "Information Technology"
+  },
+  {
+    "maSV": "20194500",
+    "tenSV": "Ngô Xuân Đạt",
+    "tuoi": 20,
+    "gioiTinh": "Nam",
+    "ngaySinh": "7/7/2001",
+    "diemToan": 3.5,
+    "diemLy": 7,
+    "diemHoa": 7,
+    "diemAnh": 8,
+    "lop": "Information Technology"
+  },
+  {
+    "maSV": "20205051",
+    "tenSV": "Nguyễn Đức Anh",
+    "tuoi": 19,
+    "gioiTinh": "Nam",
+    "ngaySinh": "8/8/2002",
+    "diemToan": 3,
+    "diemLy": 9,
+    "diemHoa": 8,
+    "diemAnh": 7,
+    "lop": "Information Technology"
+  },
+  {
+    "maSV": "20210007",
+    "tenSV": "Mạc Văn An",
+    "tuoi": 18,
+    "gioiTinh": "Nam",
+    "ngaySinh": "8/9/2003",
+    "diemToan": 9,
+    "diemLy": 8,
+    "diemHoa": 8,
+    "diemAnh": 7,
+    "lop": "VN-02"
+  },
+  {
+    "maSV": "20210032",
+    "tenSV": "Vương Phương Anh",
+    "tuoi": 21,
+    "gioiTinh": "Nữ",
+    "ngaySinh": "12/10/2000",
+    "diemToan": 9,
+    "diemLy": 9,
+    "diemHoa": 10,
+    "diemAnh": 10,
+    "lop": "VN-02"
+  },
+  {
+    "maSV": "20210039",
+    "tenSV": "Phạm Phan Anh",
+    "tuoi": 18,
+    "gioiTinh": "Nam",
+    "ngaySinh": "8/8/2003",
+    "diemToan": 7,
+    "diemLy": 6,
+    "diemHoa": 6,
+    "diemAnh": 6,
+    "lop": "VN-02"
+  },
+  {
+    "maSV": "20210151",
+    "tenSV": "Lường Hải Đăng",
+    "tuoi": 18,
+    "gioiTinh": "Nam",
+    "ngaySinh": "18/8/2003",
+    "diemToan": 6,
+    "diemLy": 10,
+    "diemHoa": 7,
+    "diemAnh": 7,
+    "lop": "VN-01"
+  },
+  {
+    "maSV": "20210088",
+    "tenSV": "Phạm Quang Bách",
+    "tuoi": 18,
+    "gioiTinh": "Nam",
+    "ngaySinh": "27/7/2003",
+    "diemToan": 6,
+    "diemLy": 5,
+    "diemHoa": 5,
+    "diemAnh": 7,
+    "lop": "VN-02"
+  }
+]
